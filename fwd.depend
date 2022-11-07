@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1663679219 source:d:\fwd\fwd\card.c
+	"types.h"
+
+1663679219 d:\fwd\fwd\types.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1663679219 source:d:\fwd\fwd\linearsearch.c
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\server.c
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\terminal.c
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\atm project\card.c
+	"types.h"
+
+1663679219 d:\fwd\fwd\atm project\types.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1663679219 source:d:\fwd\fwd\atm project\linearsearch.c
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\atm project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\atm project\server.c
+	"types.h"
+
+1663679219 source:d:\fwd\fwd\atm project\terminal.c
+	"types.h"
+
+1663789274 source:b:\atm project\card.c
+	"card.h"
+
+1663773241 b:\atm project\types.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	"card.h"
+	"terminal.h"
+	"server.h"
+	"app.h"
+
+1663777606 source:b:\atm project\linearsearch.c
+	"card.h"
+	"terminal.h"
+	"server.h"
+
+1663779945 source:b:\atm project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"card.h"
+	"terminal.h"
+	"server.h"
+	"app.h"
+
+1663783624 source:b:\atm project\server.c
+	"card.h"
+	"terminal.h"
+	"server.h"
+
+1663782474 source:b:\atm project\terminal.c
+	"card.h"
+	"terminal.h"
+	"server.h"
+
+1663771482 source:b:\atm project\app.c
+
+1663782960 b:\atm project\card.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1663782979 b:\atm project\terminal.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1663787473 b:\atm project\server.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1663777606 b:\atm project\app.h
+
+1663800486 source:d:\new folder\atm project\app.c
+	"app.h"
+
+1663800486 source:d:\new folder\atm project\card.c
+	"card.h"
+
+1663800486 d:\new folder\atm project\card.h
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1663777606 source:d:\new folder\atm project\linearsearch.c
+	"card.h"
+	"terminal.h"
+	"server.h"
+
+1663800486 d:\new folder\atm project\terminal.h
+	"card.h"
+
+1663800486 d:\new folder\atm project\server.h
+	"terminal.h"
+
+1663779945 source:d:\new folder\atm project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"card.h"
+	"terminal.h"
+	"server.h"
+	"app.h"
+
+1663800486 d:\new folder\atm project\app.h
+	"server.h"
+
+1663800486 source:d:\new folder\atm project\server.c
+	"server.h"
+
+1663800486 source:d:\new folder\atm project\terminal.c
+	"terminal.h"
+
